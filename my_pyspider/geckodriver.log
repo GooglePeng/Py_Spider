@@ -1,0 +1,13 @@
+1538286506115	mozrunner::runner	INFO	Running command: "E:\\Software\\浏览器\\Firefox_V10(x64)\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Occam\\AppData\\Local\\Temp\\rust_mozprofile.7hivBvzzWfNP"
+1538286507610	Marionette	INFO	Enabled via --marionette
+1538286512224	Marionette	INFO	Listening on port 33712
+1538286512714	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from E:\Software\浏览器\Firefox_V10(x64)\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+[Parent 2536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from E:\Software\浏览器\Firefox_V10(x64)\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+[Child 3456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from E:\Software\浏览器\Firefox_V10(x64)\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+[Child 1412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
